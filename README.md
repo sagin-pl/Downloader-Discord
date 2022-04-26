@@ -23,9 +23,9 @@ Dodać bota i działa
 
 # Użycie
 ##### TIKTOK / INSTAGRAM
-```/pobierz <URL>```
+```^sagin <URL>```
 ##### YOUTUBE I INNE
-```/pobierz <URL> <hd/best>```
+```^sagin <URL> <hd/best>```
 
 # Autorzy
 - **[@FoksureK](https://github.com/FoksureK)**
